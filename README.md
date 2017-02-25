@@ -1,1 +1,7 @@
-オライリー本の"Docker"学習用
+identidock
+
+=========
+
+Kevin Gaudinのmonsteridをもとにしたidenticonサーバ。
+
+Adrian Mouat 著，オライリー・ジャパンの"Using Docker"による。
